@@ -1,0 +1,8 @@
+﻿
+
+Scaffold-DbContext 'Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\user1\Downloads\567889\Server-master\Data\MyDataBase.mdf;Integrated Security=True;Connect Timeout=30' Microsoft.EntityFrameworkCore.SqlServer –Context CarContext -OutputDir Models  -Force -NoOnConfiguring
+
+
+Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\user1\Downloads\567889\Server-master\Data\MyDataBase.mdf;Integrated Security=True;Connect Timeout=30
+
+Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename="H:\פרויקט 21.05.24\ToGoCar\data\MyDataBase.mdf";Integrated Security=True;Connect Timeout=30
